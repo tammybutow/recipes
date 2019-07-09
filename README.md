@@ -1,2 +1,2 @@
-# recipes-
+# recipes
 👩‍🍳
